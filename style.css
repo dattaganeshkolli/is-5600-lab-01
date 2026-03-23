@@ -75,3 +75,10 @@ main {
    gap: 20px;
    padding: 40px;
 }
+/* MAIN LAYOUT */
+main {
+   display: flex;
+   justify-content: center;
+   gap: 20px;
+   padding: 40px;
+}
